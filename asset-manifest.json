@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rpc/static/css/main.3c71b10e.chunk.css",
+    "main.js": "/rpc/static/js/main.72932f5d.chunk.js",
+    "main.js.map": "/rpc/static/js/main.72932f5d.chunk.js.map",
+    "runtime-main.js": "/rpc/static/js/runtime-main.a9ee279f.js",
+    "runtime-main.js.map": "/rpc/static/js/runtime-main.a9ee279f.js.map",
+    "static/js/2.9cf954f0.chunk.js": "/rpc/static/js/2.9cf954f0.chunk.js",
+    "static/js/2.9cf954f0.chunk.js.map": "/rpc/static/js/2.9cf954f0.chunk.js.map",
+    "index.html": "/rpc/index.html",
+    "precache-manifest.f043c0601369510453a89cd0a2873adc.js": "/rpc/precache-manifest.f043c0601369510453a89cd0a2873adc.js",
+    "service-worker.js": "/rpc/service-worker.js",
+    "static/css/main.3c71b10e.chunk.css.map": "/rpc/static/css/main.3c71b10e.chunk.css.map",
+    "static/js/2.9cf954f0.chunk.js.LICENSE.txt": "/rpc/static/js/2.9cf954f0.chunk.js.LICENSE.txt",
+    "static/media/button.css": "/rpc/static/media/scissors.74c7a12f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9ee279f.js",
+    "static/js/2.9cf954f0.chunk.js",
+    "static/css/main.3c71b10e.chunk.css",
+    "static/js/main.72932f5d.chunk.js"
+  ]
+}
