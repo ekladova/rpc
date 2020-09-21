@@ -1,0 +1,45 @@
+.button-container {
+  width: fit-content;
+  margin: auto;
+  cursor: pointer;
+}
+
+.image {
+  width: 5vw;
+  height: 5vw;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.rock {
+  background-image: url("../../pictures/rock.png");
+}
+.paper {
+  background-image: url("../../pictures/paper.png");
+}
+.scissors {
+  background-image: url("../../pictures/scissors.png");
+}
+
+@media only screen and (max-width: 950px) {
+  .image {
+    height: 7vw;
+    width: 7vw;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .image {
+    height: 10vw;
+    width: 10vw;
+    margin: 4vw;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .image {
+    height: 15vw;
+    width: 15vw;
+    margin: 5vw;
+  }
+}

@@ -1,0 +1,14 @@
+.header-container {
+  background-color: #f57200;
+  margin-top: 0;
+  min-height: 7vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-text {
+  margin: 0;
+  color: white;
+  text-shadow: gray 2px 2px 2px;
+}

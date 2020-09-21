@@ -1,0 +1,33 @@
+.score-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.score-box {
+  height: 3vw;
+  width: 8vw;
+  font-size: larger;
+}
+
+@media only screen and (max-width: 950px) {
+  .score-box {
+    height: 5vw;
+    width: 10vw;
+  }
+
+  .score-container {
+    margin: 2vw;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .score-container {
+    margin: 5vw;
+  }
+
+  .score-box {
+    height: 10vw;
+    width: 15vw;
+  }
+}
